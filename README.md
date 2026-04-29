@@ -149,7 +149,7 @@ cd kawach
 If you have any questions, suggestions, or feedback, feel free to reach out to us!
 
 - Email:  
-  [rajsujal2004@gmail.com](mailto:rajsujal2004@gmail.com)
+  [princeseth2611@gmail.com](mailto:princeseth2611@gmail.com)
 
 We’re excited to connect with you and appreciate your interest in Kawach!
 
