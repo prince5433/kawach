@@ -45,8 +45,8 @@ Follow these steps to set up and run the project on your local machine.
 
 #### 1. Clone the Repository  
 ```bash
-git clone https://github.com/sujal862/kawachh.git
-cd kawachh
+git clone https://github.com/prince5433/kawach.git
+cd kawach
 ```  
 
 ---
