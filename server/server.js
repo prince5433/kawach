@@ -20,7 +20,7 @@ const app = express();
 // CORS configuration
 app.use(cors({
     origin: true,  // Allow all origins
-    credentials: false  
+    credentials: true  
 }));
 
 app.use(express.json());
