@@ -12,6 +12,7 @@ cloudinary.config({
 });
 
 // Generate a unique public ID
+//public id basically gives a unique name to the uploaded file so that it can be easily accessed and deleted
 const generatePublicId = (prefix) => {
     const timestamp = Date.now();
     const randomString = crypto.randomBytes(8).toString('hex');
